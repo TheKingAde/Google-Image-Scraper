@@ -24,13 +24,9 @@ SerpApi API Key
 Installation
 Clone the repository:
 
-<code>
-git clone https://github.com/your-username/google-image-scraper.git
-</code>
+<code>git clone https://github.com/your-username/google-image-scraper.git</code>
 
-<code>
-cd google-image-scraper
-</code>
+<code>cd google-image-scraper</code>
 
 Install the dependencies:
 
@@ -40,9 +36,10 @@ Set up the API key:
 
 Replace YOUR API KEY in the backend.py file with your actual SerpApi API key.
 Running the Application
+
 Start the Flask server:
 
-<code>python app.py<code>
+<code>python app.py</code>
 
 Open the application:
 
